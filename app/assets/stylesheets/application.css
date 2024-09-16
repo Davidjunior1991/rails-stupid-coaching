@@ -13,3 +13,48 @@
  *= require_tree .
  *= require_self
  */
+.top{
+  color:#dd9f90;
+  text-align: center;
+  font-family:Brush Script MT;
+  font-size: 100px;
+  margin: 25px;
+
+  height: 200px;
+
+
+}
+h1{
+  color:whitesmoke;
+  text-align: center;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 40 px;
+  margin: 25px;
+ height : 200px;
+}
+
+.forms{
+  text-align: center;
+}
+
+ body{
+  background-image: url("https://images.unsplash.com/photo-1510987836583-e3fb9586c7b3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D")
+
+ }
+
+ .btn-primary{
+  border-radius: 30px;
+  background-color: #212322;
+  border-color: #fbc5bb;
+  font-family:Brush Script MT;
+  }
+
+  a{
+    border-radius: 1opx;
+    background-color: #212322;
+    border-color: #fbc5bb;
+
+    text-decoration: none;
+    text-align: center;
+
+  }
